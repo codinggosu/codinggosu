@@ -31,4 +31,4 @@
 
 ---
 
-[linkedin]:https://www.linkedin.com/in/dongjoo-lee/
+[linkedin]: https://www.linkedin.com/in/dongjoo-lee/
