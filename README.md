@@ -30,5 +30,4 @@
 <br />
 
 ---
-
-[linkedin]: https://www.linkedin.com/in/dongjoo-lee/
+[linkedin]: https://linkedin.com/in/dongjoo-lee
