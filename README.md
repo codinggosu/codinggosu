@@ -1,7 +1,7 @@
-### Hi there, I'm Dongjoo Lee 👋
+### Hi there! 👋
 
 
-## I'm a Student, Developer, and Teacher!
+## I'm Dongjo Lee and I love coding
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking for internship/junior dev roles
