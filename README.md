@@ -1,7 +1,7 @@
 ### Hi there! 👋
 
 
-## I'm Dongjo Lee and I love coding
+## I'm Dongjo Lee!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking for internship/junior dev roles
