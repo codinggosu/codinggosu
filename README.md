@@ -3,10 +3,9 @@
 
 ## I'm Dongjo Lee!
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking for internship/junior dev roles
-- 🥅 2020 Goals: Contribute more to Open Source projects
-
+- 🌱
+- 👯 
+- 🥅 
 
 ### Connect with me:
 
