@@ -1,7 +1,7 @@
 ### Hi there! 👋
 
 
-## I'm Dongjo Lee!
+## I'm Dongjoo Lee!
 
 - 🌱
 - 👯 
